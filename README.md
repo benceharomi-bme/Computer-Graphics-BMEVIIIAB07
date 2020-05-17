@@ -88,4 +88,4 @@ Beadási határidő: 2020. 05. 15. 23:59
 
 A megoldásom 2 pontot ért a 4-ből.
 
-A harmadik házi hivatlos megoldása: video
+A harmadik házi hivatalos megoldása: video
