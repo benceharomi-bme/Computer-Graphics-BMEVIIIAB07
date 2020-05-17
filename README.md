@@ -15,19 +15,19 @@ Points of the Euclidean plane can be identified by a complex number. Points of t
 The Sirius line is an circular arc in Euclidean geometry, which arrives at the base circle perpendicularly. 
 The program should render a filled Sirius triangle defined by three mouse clicks. The boundary of the Sirius triangle should be drawn with a different color. The lengths of the edges of the triangle should be printed on the standard output.
 
-Official solution [video](https://www.youtube.com/watch?v=_cCr-LF9QU0) of the first homework.
-
 My solution scored 1 point out of 2.
 
-## Homework 2 - Light tube simulator
-Official Solution [video](https://www.youtube.com/watch?v=hTCNJaP_QNk) of the second homework.
+Official solution [video](https://www.youtube.com/watch?v=_cCr-LF9QU0) of the first homework.
 
+## Homework 2 - Light tube simulator
 My solution scored 3 points out of 3.
 
-## Homework 3 - Virus killing antibody
-Official solution video of the third homework.
+Official Solution [video](https://www.youtube.com/watch?v=hTCNJaP_QNk) of the second homework.
 
+## Homework 3 - Virus killing antibody
 My solution scored 2 points out of 4.
+
+Official solution video of the third homework.
 
 ### Specifications in Hungarian:
 ## Első feladat - Sziriusz háromszög rajzoló
@@ -43,9 +43,9 @@ A feladat három egér klikk után a három pont által definiált háromszöget
 
 Beadási határidő: 2020. 04. 04. 23:59
 
-Az első házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=_cCr-LF9QU0)
-
 A megoldásom 1 pontot ért a 2-ből.
+
+Az első házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=_cCr-LF9QU0)
 
 ## Második feladat - Napfénycső szimulátor
 A Velux a napfénycsöveit a beépítés előtt virtuális világban kívánja tesztelni. A feladatot önre osztotta a sors arra az esetre, amikor a napfénycső ezüst egyköpenyű hiperboloid és a nap közvetlenül nem világít be a szobába. A napfénycső által megvilágított szobában legalább három objektum van, amelyek szabadon megválaszthatók, de nem lehetnek gömbök. Az objektumokból legalább az egyik optikailag sima arany. A rücskös anyagok a diffúz+PhongBlinn modellt követik. Az nap+égbolt fénye konstans égbolt radianciával és a nap irányának környékén erősödő nap radianciával jellemezhető. Az égbolt fény csak a csövön juthat be a szobába, ahol csak egy ambiens fényforrás van jelen. Feladat, a szobában lévő virtuális kamerából lefényképezni a látványt egy olyan pillanatban, amikor a nap magasan jár és ezért jut elég fény a szobába.
@@ -62,9 +62,9 @@ Napfénycső és égbolt megvilágítás szimulációja: 2p
 
 Beadási határidő: 2020. 04. 21. 23:59
 
-A második házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=hTCNJaP_QNk)
-
 A megoldásom 3 pontot ért a 3-ból.
+
+A második házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=hTCNJaP_QNk)
 
 ## Harmadik feladat - Vírusölő antitest
 Készítsen „antitest vírust öl” játékot, amely egy textúrázott gömb vagy henger belsejében zajlik, amit pont fényforrások világítanak meg. A vírus teste haragosan hullámzó gömb, a nyúlványok Tractricoid alakzatok, amelyek a hullámzó felületre mindig merőlegesek. A nyúlványok egyenletesen fedik be a felületet. A gömb és a nyúlványok textúrázottak diffúz/spekuláris típusúak. A vírus a saját tengelye körül forog állandó szögsebességgel, ezen kívül a testén kívüli pivot pont körül is, amit a [cos(t), sin(t/2), sin(t/3), sin(t/5)] (vigyázat nem normalizált!) kvaternió ad meg (t az idő sec-ben). Az antitest tetraéder Helge von Koch típusú felosztással két szinten. Az antitest tüskéinek nyújtogatásával kelt félelmet. Az antitest saját tengelye körül forog és Brown mozgással halad előre, az x, X, y, Y, z, Z billentyűket lenyomva tartva a haladás az adott (kisbetű: pozitív, nagybetű: negatív) irányba valószínűbb. A Brown mozgás sebességvektora véletlenszerű és 0.1 sec-ként változik. Ha az antitest alaptetraéderének befoglaló gömbje és az alapállatú vírus gömbje ütközik, a vírus elpusztul, azaz mozgása megszűnik.
@@ -81,6 +81,6 @@ Antitest animáció: 1 pont
 
 Beadási határidő: 2020. 05. 15. 23:59
 
-A harmadik házi hivatlos megoldása: video
-
 A megoldásom 2 pontot ért a 4-ből.
+
+A harmadik házi hivatlos megoldása: video
