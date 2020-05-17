@@ -1,5 +1,5 @@
 # Computer Graphics (Számítógépes Grafika)
-Solutions for Computer Graphics subject's 3 homework tasks during my second year of Computer Engineering BSc at BME (2020)
+Solutions for Computer Graphics subject's 3 homework tasks during my second year of Computer Engineering BSc at BME (Spring 2020)
 
 The specifications can be found in Hungarian, under the English ones.
 
