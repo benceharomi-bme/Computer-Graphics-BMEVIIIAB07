@@ -8,7 +8,7 @@ Copy the desired solution's ```.cpp``` file to the ```GraphicsHomeworkPackage/Pr
 
 Please mind that [Visual Studio](https://visualstudio.microsoft.com/vs/) is required for the program to work.
 
-## Specifications in Hungarian:
+## Specifications:
 ### Homework 1 - Sirius triangle drawing
 Aliens from the Sirius star constellation love the 2D drawing package of Word, Powerpoint, etc., but they cannot use it directly since their geometry differs from the Euclidean geometry popular in planet Earth. You are contracted to make the necessary adaptation for the simple case when a triangle defined by three points is to be drawn. Fortunately, they also provided a dictionary to pair the Sirius geometric terms to our familiar Euclidean geometric terms: 
 The Sirius plane is a unit radius circle of the Euclidean plane, which is called the base circle.
@@ -29,6 +29,8 @@ Official Solution [video](https://www.youtube.com/watch?v=hTCNJaP_QNk) of the se
 My solution scored 2 points out of 4.
 
 Official solution video of the third homework.
+
+
 
 ## Specifications in Hungarian:
 ### Első feladat - Sziriusz háromszög rajzoló
