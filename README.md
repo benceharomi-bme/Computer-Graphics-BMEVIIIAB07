@@ -3,6 +3,11 @@ Solutions for Computer Graphics subject's 3 homework tasks during my second year
 
 The specifications can be found in Hungarian, under the English ones.
 
+## Running instructions
+Copy the desired solution's ```.cpp``` file to the ```GraphicsHomeworkPackage/Programs/Skeleton/Skeleton``` folder and rename it to ```Skeleton.cpp```, then run ```Skeleton.sln``` which can be found in the ```GraphicsHomeworkPackage/Programs/Skeleton``` folder.
+
+Please mind that [Visual Studio](https://visualstudio.microsoft.com/vs/) is required for the program to work.
+
 ## Homework 1 - Sirius triangle drawing
 Aliens from the Sirius star constellation love the 2D drawing package of Word, Powerpoint, etc., but they cannot use it directly since their geometry differs from the Euclidean geometry popular in planet Earth. You are contracted to make the necessary adaptation for the simple case when a triangle defined by three points is to be drawn. Fortunately, they also provided a dictionary to pair the Sirius geometric terms to our familiar Euclidean geometric terms: 
 The Sirius plane is a unit radius circle of the Euclidean plane, which is called the base circle.
@@ -10,12 +15,18 @@ Points of the Euclidean plane can be identified by a complex number. Points of t
 The Sirius line is an circular arc in Euclidean geometry, which arrives at the base circle perpendicularly. 
 The program should render a filled Sirius triangle defined by three mouse clicks. The boundary of the Sirius triangle should be drawn with a different color. The lengths of the edges of the triangle should be printed on the standard output.
 
+Official solution [video](https://www.youtube.com/watch?v=_cCr-LF9QU0) of the first homework.
+
 My solution scored 1 point out of 2.
 
 ## Homework 2 - Light tube simulator
+Official Solution [video](https://www.youtube.com/watch?v=hTCNJaP_QNk) of the second homework.
+
 My solution scored 3 points out of 3.
 
 ## Homework 3 - Virus killing antibody
+Official solution video of the third homework.
+
 My solution scored 2 points out of 4.
 
 ### Specifications in Hungarian:
@@ -31,6 +42,8 @@ A Szíriusz egyenes egy olyan euklideszi körív, amely az alapkörre merőleges
 A feladat három egér klikk után a három pont által definiált háromszöget a háttértől eltérő színnel kitölteni, az éleket ezektől eltérő színnel felrajzolni, és a szabványos kimenetre a három szögeit és oldalainak hosszát kiírni.
 
 Beadási határidő: 2020. 04. 04. 23:59
+
+Az első házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=_cCr-LF9QU0)
 
 A megoldásom 1 pontot ért a 2-ből.
 
@@ -49,6 +62,8 @@ Napfénycső és égbolt megvilágítás szimulációja: 2p
 
 Beadási határidő: 2020. 04. 21. 23:59
 
+A második házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=hTCNJaP_QNk)
+
 A megoldásom 3 pontot ért a 3-ból.
 
 ## Harmadik feladat - Vírusölő antitest
@@ -65,5 +80,7 @@ Antitest: 1 pont
 Antitest animáció: 1 pont
 
 Beadási határidő: 2020. 05. 15. 23:59
+
+A harmadik házi hivatlos megoldása: video
 
 A megoldásom 2 pontot ért a 4-ből.
