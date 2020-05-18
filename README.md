@@ -55,6 +55,8 @@ A feladat három egér klikk után a három pont által definiált háromszöget
 
 Beadási határidő: 2020. 04. 04. 23:59
 
+![](Homework1/sirius_render.png)
+
 A megoldásom 1 pontot ért a 2-ből.
 
 Az első házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=_cCr-LF9QU0)
@@ -74,6 +76,8 @@ Napfénycső és égbolt megvilágítás szimulációja: 2p
 
 Beadási határidő: 2020. 04. 21. 23:59
 
+![](Homework2/light_tube_simulator_render.png)
+
 A megoldásom 3 pontot ért a 3-ból.
 
 A második házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=hTCNJaP_QNk)
@@ -92,6 +96,8 @@ Antitest: 1 pont
 Antitest animáció: 1 pont
 
 Beadási határidő: 2020. 05. 15. 23:59
+
+![](Homework3/virus_killing_antibody_render.png)
 
 A megoldásom 2 pontot ért a 4-ből.
 
