@@ -30,7 +30,7 @@ Official Solution [video](https://www.youtube.com/watch?v=hTCNJaP_QNk) of the se
 ### Homework 3 - Virus killing antibody
 My solution scored 2 points out of 4.
 
-Official solution video of the third homework.
+Official solution [video](https://www.youtube.com/watch?v=NckDUAAUu4o) of the third homework.
 
 - - - -
 
@@ -88,4 +88,4 @@ Beadási határidő: 2020. 05. 15. 23:59
 
 A megoldásom 2 pontot ért a 4-ből.
 
-A harmadik házi hivatalos megoldása: video
+A harmadik házi hivatalos megoldása: [video](https://www.youtube.com/watch?v=NckDUAAUu4o)
