@@ -18,16 +18,23 @@ Points of the Euclidean plane can be identified by a complex number. Points of t
 The Sirius line is an circular arc in Euclidean geometry, which arrives at the base circle perpendicularly. 
 The program should render a filled Sirius triangle defined by three mouse clicks. The boundary of the Sirius triangle should be drawn with a different color. The lengths of the edges of the triangle should be printed on the standard output.
 
+![](Homework1/sirius_render.png)
+
 My solution scored 1 point out of 2.
 
 Official solution [video](https://www.youtube.com/watch?v=_cCr-LF9QU0) of the first homework.
 
 ### Homework 2 - Light tube simulator
+![](Homework2/light_tube_simulator_render.png)
+
 My solution scored 3 points out of 3.
 
 Official Solution [video](https://www.youtube.com/watch?v=hTCNJaP_QNk) of the second homework.
 
 ### Homework 3 - Virus killing antibody
+
+![](Homework3/virus_killing_antibody_render.png)
+
 My solution scored 2 points out of 4.
 
 Official solution [video](https://www.youtube.com/watch?v=NckDUAAUu4o) of the third homework.
